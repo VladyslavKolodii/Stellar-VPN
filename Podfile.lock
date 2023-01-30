@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CRNotifications (1.2.1)
+  - FlagKit (2.2)
+  - IQKeyboardManager (6.5.6)
+  - Qonversion (2.10.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - CRNotifications
+  - FlagKit
+  - IQKeyboardManager
+  - Qonversion
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CRNotifications
+    - FlagKit
+    - IQKeyboardManager
+    - Qonversion
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CRNotifications: 2799786cb63e104c75699843d8928afd680182f3
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Qonversion: e1ca7333978bbcb956a5233d0902cd6f768321e6
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a6f21e2e02d762e4afa510aa33c86e4fa78b4bae
+
+COCOAPODS: 1.10.0
